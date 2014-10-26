@@ -1,0 +1,78 @@
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.frmLogin.resources
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.Properties.Resources.resources
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.csproj.GenerateResource.Cache
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\bin\Debug\GiGi.UI.exe
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\bin\Debug\GiGi.UI.pdb
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.exe
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.pdb
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.frmHome.resources
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\bin\Debug\Resources\img_close.png
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\bin\Debug\Resources\login-26.png
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\bin\Debug\Resources\guest-26.png
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\bin\Debug\Resources\guest-48.png
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\bin\Debug\Resources\guest-32.png
+C:\Users\RavishaHeshan(DON)\Documents\Visual Studio 2010\Projects\GiGi.UI\GiGi.UI\bin\Debug\Resources\inventory.png
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.exe
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.pdb
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\bin\Debug\Resources\img_close.png
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\bin\Debug\Resources\login-26.png
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\bin\Debug\Resources\guest-26.png
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\bin\Debug\Resources\guest-48.png
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\bin\Debug\Resources\guest-32.png
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\bin\Debug\Resources\inventory.png
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\bin\Debug\GiGi.UI.exe
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\bin\Debug\GiGi.UI.pdb
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.frmHome.resources
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.FrmItemMaster.resources
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.frmLogin.resources
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.Properties.Resources.resources
+C:\Users\User\Desktop\gig\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.csproj.GenerateResource.Cache
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.exe
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.csprojResolveAssemblyReference.cache
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.frmHome.resources
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.FrmItemMaster.resources
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.frmLogin.resources
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.frmTest.resources
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.Goods_Issue.resources
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.Properties.Resources.resources
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\obj\x86\Debug\GiGi.UI.csproj.GenerateResource.Cache
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\Resources\img_close.png
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\Resources\login-26.png
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\Resources\guest-26.png
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\Resources\guest-48.png
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\Resources\guest-32.png
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\Resources\inventory.png
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\GiGi.UI.exe
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\GiGi.UI.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\GiGi.BL.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\GiGi.DAL.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\GiGi.BL.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.UI\bin\Debug\GiGi.DAL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\Resources\img_close.png
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\Resources\login-26.png
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\Resources\guest-26.png
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\Resources\guest-48.png
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\Resources\guest-32.png
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\Resources\inventory.png
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\GiGi.UI.exe
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\GiGi.UI.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\GiGi.BL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\GiGi.DAL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\GiGi.BL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\bin\Debug\GiGi.DAL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.csprojResolveAssemblyReference.cache
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.frmHome.resources
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.FrmItemMaster.resources
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.frmLogin.resources
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.frmTest.resources
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.Goods_Issue.resources
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.Properties.Resources.resources
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.csproj.GenerateResource.Cache
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.exe
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.pdb

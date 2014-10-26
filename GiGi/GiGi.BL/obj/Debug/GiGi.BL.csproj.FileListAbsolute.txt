@@ -1,0 +1,31 @@
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.BL\bin\Debug\GiGi.BL.dll
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.BL\bin\Debug\GiGi.BL.pdb
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.BL\obj\Debug\GiGi.BL.dll
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.BL\obj\Debug\GiGi.BL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.BL\obj\Debug\GiGi.BL.csprojResolveAssemblyReference.cache
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.BL\obj\Debug\GiGi.BL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.BL\obj\Debug\GiGi.BL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.BL\bin\Debug\GiGi.BL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.BL\bin\Debug\GiGi.BL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.BL\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.BL\bin\Debug\GiGi.DAL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.BL\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.BL\bin\Debug\GiGi.DAL.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.BL\bin\Debug\GiGi.BL.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.BL\bin\Debug\GiGi.BL.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.BL\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.BL\bin\Debug\GiGi.DAL.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.BL\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.BL\bin\Debug\GiGi.DAL.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.BL\obj\Debug\GiGi.BL.csprojResolveAssemblyReference.cache
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.BL\obj\Debug\GiGi.BL.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.BL\obj\Debug\GiGi.BL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.BL\bin\Debug\GiGi.BL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.BL\bin\Debug\GiGi.BL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.BL\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.BL\bin\Debug\GiGi.DAL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.BL\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.BL\bin\Debug\GiGi.DAL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.BL\obj\Debug\GiGi.BL.csprojResolveAssemblyReference.cache
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.BL\obj\Debug\GiGi.BL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.BL\obj\Debug\GiGi.BL.pdb

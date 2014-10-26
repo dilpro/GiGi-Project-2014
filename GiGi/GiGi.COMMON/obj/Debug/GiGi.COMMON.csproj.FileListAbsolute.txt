@@ -1,0 +1,17 @@
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.csprojResolveAssemblyReference.cache
