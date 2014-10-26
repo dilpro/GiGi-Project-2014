@@ -85,9 +85,9 @@
             this.lblId.AutoSize = true;
             this.lblId.Location = new System.Drawing.Point(79, 53);
             this.lblId.Name = "lblId";
-            this.lblId.Size = new System.Drawing.Size(16, 13);
+            this.lblId.Size = new System.Drawing.Size(62, 13);
             this.lblId.TabIndex = 5;
-            this.lblId.Text = "Id";
+            this.lblId.Text = "EmployeeId";
             // 
             // lblFirstName
             // 

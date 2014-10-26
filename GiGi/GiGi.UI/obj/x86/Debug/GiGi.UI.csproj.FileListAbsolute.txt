@@ -76,3 +76,5 @@ C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.Prope
 C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.csproj.GenerateResource.Cache
 C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.exe
 C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.pdb
+C:\Users\Dilanka\Documents\GitHub\GiGi-Project-2014\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.exe
+C:\Users\Dilanka\Documents\GitHub\GiGi-Project-2014\GiGi\GiGi.UI\obj\x86\Debug\GiGi.UI.pdb
